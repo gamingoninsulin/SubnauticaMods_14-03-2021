@@ -119,8 +119,9 @@ COMMING SOON !!
 #### Z:
  - NONE
  
+ 
 ■ CHANGED:
- - NONE
+ - Removed 2 mods (16-03-2021)
 
 ■ REMOVED:
  - Custom Craft 2
