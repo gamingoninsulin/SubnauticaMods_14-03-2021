@@ -14,9 +14,9 @@ Details:
 COMMING SOON !!
 
 
-## change-log Mods:
+# change-log Mods:
 
-■ ADDED:
+## ■ ADDED:
  #### A:
  - Advanced Inventory's
  - Alien Rifle
@@ -120,9 +120,9 @@ COMMING SOON !!
  - NONE
  
  
-■ CHANGED:
+## ■ CHANGED:
  - Removed 2 mods (16-03-2021)
 
-■ REMOVED:
+## ■ REMOVED:
  - Custom Craft 2
  - Unleashed LifePod
