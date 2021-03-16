@@ -72,7 +72,7 @@ COMMING SOON !!
 #### H:
  - NONE
 #### I:
- - NONE
+ - Increased Ore Spawn
 #### J:
  - NONE
 #### K:
@@ -81,6 +81,7 @@ COMMING SOON !!
  - NONE
 #### M:
  - Moonpool Vehicle Repair
+ - More Scannerroom Blips
  - More Seamoth Depth
  - More Cyclopse Upgrades (tier 5)
  - More  Quickslots (in total 14)
@@ -89,6 +90,8 @@ COMMING SOON !!
 #### O:
  - NONE
 #### P:
+ - PDA Pause
+ - PDA radio
  - Performance Booster
  - Pickupable Storage Enhanced
 #### Q:
